@@ -1,0 +1,1013 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "复古印花宽松T恤",
+      "price": 299,
+      "originalPrice": 399,
+      "images": [
+        "https://picsum.photos/seed/p1/600/800",
+        "https://picsum.photos/seed/p1b/600/800"
+      ],
+      "category": "女装",
+      "tags": [
+        "新品",
+        "热卖"
+      ],
+      "rating": 4.8,
+      "sales": 2340,
+      "stock": 86,
+      "colors": [
+        "#FF6B35",
+        "#1A1A2E",
+        "#FFFFFF",
+        "#F5E6D3"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "宽松版型搭配复古印花，古巴领设计，透气棉麻面料，夏日街头必备单品。搭配高腰牛仔裤或半身裙，轻松打造休闲街头风。",
+      "isNew": true,
+      "isHot": true,
+      "memberDiscount": 0.9
+    },
+    {
+      "id": 2,
+      "name": "高腰阔腿牛仔裤",
+      "price": 459,
+      "originalPrice": 599,
+      "images": [
+        "https://picsum.photos/seed/p2/600/800",
+        "https://picsum.photos/seed/p2b/600/800"
+      ],
+      "category": "女装",
+      "tags": [
+        "热卖",
+        "百搭"
+      ],
+      "rating": 4.6,
+      "sales": 1890,
+      "stock": 42,
+      "colors": [
+        "#4A6FA5",
+        "#2C3E50",
+        "#D4C5B9"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "高腰设计拉长腿部线条，阔腿版型修饰腿型，优质弹力牛仔面料舒适不紧绷。四季百搭，通勤约会皆可。",
+      "isNew": false,
+      "isHot": true,
+      "memberDiscount": 0.9
+    },
+    {
+      "id": 3,
+      "name": "极简纯棉白衬衫",
+      "price": 359,
+      "originalPrice": 459,
+      "images": [
+        "https://picsum.photos/seed/p3/600/800",
+        "https://picsum.photos/seed/p3b/600/800"
+      ],
+      "category": "男装",
+      "tags": [
+        "新品",
+        "基础款"
+      ],
+      "rating": 4.7,
+      "sales": 1560,
+      "stock": 120,
+      "colors": [
+        "#FFFFFF",
+        "#F5F5F5",
+        "#E8E0D8",
+        "#4A90D9"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "100% 新疆长绒棉，挺括有型不软塌。微宽松版型，单穿或叠穿皆宜。领口加固不变形，机洗无忧。",
+      "isNew": true,
+      "isHot": false,
+      "memberDiscount": 0.95
+    },
+    {
+      "id": 4,
+      "name": "情侣款连帽卫衣",
+      "price": 329,
+      "originalPrice": 429,
+      "images": [
+        "https://picsum.photos/seed/p4/600/800",
+        "https://picsum.photos/seed/p4b/600/800"
+      ],
+      "category": "男装",
+      "tags": [
+        "热卖",
+        "情侣款"
+      ],
+      "rating": 4.5,
+      "sales": 3200,
+      "stock": 55,
+      "colors": [
+        "#1A1A2E",
+        "#7B2FBE",
+        "#FF6B35",
+        "#E8E0D8"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "420g 加绒内里，冬日温暖担当。oversized 落肩设计，男女皆可穿。胸前撞色 logo 刺绣，低调有质感。",
+      "isNew": false,
+      "isHot": true,
+      "memberDiscount": 0.88
+    },
+    {
+      "id": 5,
+      "name": "链条斜挎包",
+      "price": 189,
+      "originalPrice": 259,
+      "images": [
+        "https://picsum.photos/seed/p5/600/800",
+        "https://picsum.photos/seed/p5b/600/800"
+      ],
+      "category": "配饰",
+      "tags": [
+        "新品"
+      ],
+      "rating": 4.3,
+      "sales": 980,
+      "stock": 200,
+      "colors": [
+        "#1A1A2E",
+        "#D4A574",
+        "#C0C0C0",
+        "#FF6B35"
+      ],
+      "sizes": [
+        "均码"
+      ],
+      "description": "简约方形包型配金属链条，可单肩可斜挎。优质 PU 皮面耐磨防水，内里分层设计方便收纳。",
+      "isNew": true,
+      "isHot": false,
+      "memberDiscount": 0.95
+    },
+    {
+      "id": 6,
+      "name": "法式碎花连衣裙",
+      "price": 389,
+      "originalPrice": 529,
+      "images": [
+        "https://picsum.photos/seed/p6/600/800",
+        "https://picsum.photos/seed/p6b/600/800"
+      ],
+      "category": "女装",
+      "tags": [
+        "新品",
+        "约会"
+      ],
+      "rating": 4.9,
+      "sales": 870,
+      "stock": 33,
+      "colors": [
+        "#FFD166",
+        "#7B2FBE",
+        "#FF6B35"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "V领收腰设计展现优雅颈部线条，轻盈雪纺面料飘逸灵动。浪漫碎花印花，约会出游首选。",
+      "isNew": true,
+      "isHot": true,
+      "memberDiscount": 0.88
+    },
+    {
+      "id": 7,
+      "name": "工装束脚运动裤",
+      "price": 269,
+      "originalPrice": 359,
+      "images": [
+        "https://picsum.photos/seed/p7/600/800",
+        "https://picsum.photos/seed/p7b/600/800"
+      ],
+      "category": "男装",
+      "tags": [
+        "百搭"
+      ],
+      "rating": 4.4,
+      "sales": 2100,
+      "stock": 78,
+      "colors": [
+        "#1A1A2E",
+        "#6B7B8D",
+        "#D4C5B9"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "description": "多口袋工装设计兼具实用与潮流，束脚版型利落不拖沓。弹力面料活动自如，日常通勤运动皆宜。",
+      "isNew": false,
+      "isHot": false,
+      "memberDiscount": 0.9
+    },
+    {
+      "id": 8,
+      "name": "复古方框太阳镜",
+      "price": 159,
+      "originalPrice": 219,
+      "images": [
+        "https://picsum.photos/seed/p8/600/800",
+        "https://picsum.photos/seed/p8b/600/800"
+      ],
+      "category": "配饰",
+      "tags": [
+        "新品",
+        "防晒"
+      ],
+      "rating": 4.2,
+      "sales": 1500,
+      "stock": 300,
+      "colors": [
+        "#1A1A2E",
+        "#D4A574",
+        "#4A6FA5"
+      ],
+      "sizes": [
+        "均码"
+      ],
+      "description": "TR90 材质轻至 25g，偏光镜片 100% 防紫外线。经典方框造型不挑脸型，四季出街凹造型利器。",
+      "isNew": true,
+      "isHot": false,
+      "memberDiscount": 0.95
+    },
+    {
+      "id": 9,
+      "name": "羊毛混纺针织开衫",
+      "price": 499,
+      "originalPrice": 699,
+      "images": [
+        "https://picsum.photos/seed/p9/600/800",
+        "https://picsum.photos/seed/p9b/600/800"
+      ],
+      "category": "女装",
+      "tags": [
+        "百搭",
+        "秋冬"
+      ],
+      "rating": 4.7,
+      "sales": 1200,
+      "stock": 25,
+      "colors": [
+        "#F5E6D3",
+        "#D4C5B9",
+        "#1A1A2E",
+        "#FF6B35"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "description": "含 30% 美利奴羊毛，柔软亲肤不起球。慵懒宽松版型，春秋单穿冬季叠穿，一衣三季。",
+      "isNew": false,
+      "isHot": true,
+      "memberDiscount": 0.88
+    },
+    {
+      "id": 10,
+      "name": "机能风战术马甲",
+      "price": 429,
+      "originalPrice": 559,
+      "images": [
+        "https://picsum.photos/seed/p10/600/800",
+        "https://picsum.photos/seed/p10b/600/800"
+      ],
+      "category": "男装",
+      "tags": [
+        "新品",
+        "机能风"
+      ],
+      "rating": 4.5,
+      "sales": 650,
+      "stock": 40,
+      "colors": [
+        "#1A1A2E",
+        "#6B7B8D",
+        "#4A6FA5"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "description": "多口袋战术马甲，尼龙防水面料，机能风拉满。叠穿 T恤或卫衣，打造城市户外风格。",
+      "isNew": true,
+      "isHot": true,
+      "memberDiscount": 0.9
+    },
+    {
+      "id": 11,
+      "name": "珍珠发夹套装",
+      "price": 79,
+      "originalPrice": 129,
+      "images": [
+        "https://picsum.photos/seed/p11/600/800",
+        "https://picsum.photos/seed/p11b/600/800"
+      ],
+      "category": "配饰",
+      "tags": [
+        "新品",
+        "少女感"
+      ],
+      "rating": 4.6,
+      "sales": 3200,
+      "stock": 500,
+      "colors": [
+        "#FFFFFF",
+        "#FFD166",
+        "#F5E6D3"
+      ],
+      "sizes": [
+        "均码"
+      ],
+      "description": "一盒 6 枚不同造型珍珠发夹，合金底托不易褪色。甜美温柔系必入，自用送礼皆可。",
+      "isNew": true,
+      "isHot": true,
+      "memberDiscount": 0.95
+    },
+    {
+      "id": 12,
+      "name": "厚底马丁靴",
+      "price": 589,
+      "originalPrice": 799,
+      "images": [
+        "https://picsum.photos/seed/p12/600/800",
+        "https://picsum.photos/seed/p12b/600/800"
+      ],
+      "category": "女装",
+      "tags": [
+        "百搭",
+        "秋冬"
+      ],
+      "rating": 4.8,
+      "sales": 1850,
+      "stock": 15,
+      "colors": [
+        "#1A1A2E",
+        "#6B4226",
+        "#FFFFFF"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "description": "头层牛皮鞋面，5cm 增高厚底显腿长。侧拉链穿脱方便，橡胶大底防滑耐磨。四季百搭战靴。",
+      "isNew": false,
+      "isHot": true,
+      "memberDiscount": 0.88
+    }
+  ],
+  "community": [
+    {
+      "id": 1,
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "images": [
+        "https://picsum.photos/seed/look1/600/800"
+      ],
+      "content": "今日 OOTD 🧡 复古印花T恤搭阔腿牛仔裤，踩一双厚底马丁靴，街头感拉满！高腰款真的显腿长，小个子女生冲就对了～",
+      "tags": [
+        "街头风",
+        "oversized",
+        "显高穿搭"
+      ],
+      "likes": 342,
+      "liked": false,
+      "comments": 28,
+      "createdAt": "2026-05-09T14:30:00Z",
+      "linkedProducts": [
+        1,
+        2,
+        12
+      ]
+    },
+    {
+      "id": 2,
+      "author": {
+        "id": 2,
+        "nickname": "小野",
+        "avatar": "https://picsum.photos/seed/avatar2/100/100"
+      },
+      "images": [
+        "https://picsum.photos/seed/look2/600/800"
+      ],
+      "content": "机能风初尝试！战术马甲+连帽卫衣叠穿效果绝了，黑白灰永不出错。马丁靴一踩，气场直接两米八。",
+      "tags": [
+        "机能风",
+        "叠穿",
+        "暗黑系"
+      ],
+      "likes": 567,
+      "liked": true,
+      "comments": 42,
+      "createdAt": "2026-05-09T10:15:00Z",
+      "linkedProducts": [
+        4,
+        10,
+        12
+      ]
+    },
+    {
+      "id": 3,
+      "author": {
+        "id": 3,
+        "nickname": "Mia米娅",
+        "avatar": "https://picsum.photos/seed/avatar3/100/100"
+      },
+      "images": [
+        "https://picsum.photos/seed/look3/600/800"
+      ],
+      "content": "周末约会穿搭 🌸 法式碎花裙+珍珠发夹，温柔到骨子里。针织开衫披着当外套，防晒又有层次感。链条包小巧能装，整套超甜～",
+      "tags": [
+        "法式风",
+        "约会穿搭",
+        "温柔系"
+      ],
+      "likes": 891,
+      "liked": false,
+      "comments": 65,
+      "createdAt": "2026-05-08T16:45:00Z",
+      "linkedProducts": [
+        5,
+        6,
+        9,
+        11
+      ]
+    },
+    {
+      "id": 4,
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "images": [
+        "https://picsum.photos/seed/look4/600/800"
+      ],
+      "content": "基础款白衬衫也能很时髦！解开两颗扣子微微露锁骨，袖口随意卷起，搭工装裤和墨镜就是酷 girl。这件的面料真的舒服哭了～",
+      "tags": [
+        "极简风",
+        "基础款穿搭",
+        "通勤"
+      ],
+      "likes": 234,
+      "liked": false,
+      "comments": 15,
+      "createdAt": "2026-05-07T09:20:00Z",
+      "linkedProducts": [
+        3,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 5,
+      "author": {
+        "id": 2,
+        "nickname": "小野",
+        "avatar": "https://picsum.photos/seed/avatar2/100/100"
+      },
+      "images": [
+        "https://picsum.photos/seed/look5/600/800"
+      ],
+      "content": "情侣卫衣穿搭！和对象一人一件不同色，橙紫 CP 色回头率超高。oversized 遮肉神器，加绒款暖到心坎里～",
+      "tags": [
+        "情侣穿搭",
+        "卫衣",
+        "暖色系"
+      ],
+      "likes": 1203,
+      "liked": false,
+      "comments": 98,
+      "createdAt": "2026-05-06T20:00:00Z",
+      "linkedProducts": [
+        4
+      ]
+    },
+    {
+      "images": [],
+      "content": "1",
+      "tags": [],
+      "likes": 0,
+      "liked": false,
+      "comments": 0,
+      "createdAt": "2026-05-10T15:27:14.767Z",
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": ""
+      },
+      "linkedProducts": [],
+      "id": 6
+    },
+    {
+      "images": [
+        "123"
+      ],
+      "content": "213123",
+      "tags": [],
+      "likes": 0,
+      "liked": false,
+      "comments": 0,
+      "createdAt": "2026-05-10T15:57:16.747Z",
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": ""
+      },
+      "linkedProducts": [],
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nickname": "Ray酱",
+      "avatar": "https://picsum.photos/seed/avatar1/100/100",
+      "phone": "13800001111",
+      "memberLevel": "gold",
+      "memberExpire": "2026-12-31",
+      "collections": [
+        11,
+        12
+      ],
+      "settings": {
+        "lang": "zh-CN",
+        "theme": "light",
+        "fontSize": "medium"
+      }
+    },
+    {
+      "id": 2,
+      "nickname": "小野",
+      "avatar": "https://picsum.photos/seed/avatar2/100/100",
+      "phone": "13800002222",
+      "memberLevel": "silver",
+      "memberExpire": "2026-08-15",
+      "collections": [
+        4,
+        5,
+        10
+      ],
+      "settings": {
+        "lang": "zh-CN",
+        "theme": "dark",
+        "fontSize": "medium"
+      }
+    },
+    {
+      "id": 3,
+      "nickname": "Mia米娅",
+      "avatar": "https://picsum.photos/seed/avatar3/100/100",
+      "phone": "13800003333",
+      "memberLevel": "normal",
+      "memberExpire": "",
+      "collections": [
+        6,
+        9,
+        11
+      ],
+      "settings": {
+        "lang": "zh-CN",
+        "theme": "light",
+        "fontSize": "small"
+      }
+    },
+    {
+      "nickname": "1",
+      "phone": "1",
+      "avatar": "",
+      "memberLevel": "normal",
+      "memberExpire": "",
+      "collections": [],
+      "settings": {
+        "lang": "zh-CN",
+        "theme": "light",
+        "fontSize": "medium"
+      },
+      "id": 4
+    }
+  ],
+  "memberLevels": [
+    {
+      "level": "normal",
+      "name": "普通会员",
+      "discount": 1,
+      "price": 0,
+      "icon": "User",
+      "color": "#A0A0B0",
+      "benefits": [
+        "专属客服",
+        "7天退换"
+      ]
+    },
+    {
+      "level": "silver",
+      "name": "银卡会员",
+      "discount": 0.95,
+      "price": 29,
+      "icon": "Star",
+      "color": "#C0C0C0",
+      "benefits": [
+        "全场 9.5 折",
+        "每月 2 张免邮券",
+        "生日专属礼",
+        "专属客服"
+      ]
+    },
+    {
+      "level": "gold",
+      "name": "金卡会员",
+      "discount": 0.88,
+      "price": 59,
+      "icon": "Trophy",
+      "color": "#FFD166",
+      "benefits": [
+        "全场 8.8 折",
+        "无限免邮",
+        "生日专属礼",
+        "新品抢先 48 小时",
+        "专属客服优先通道",
+        "年度礼盒"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "image": "https://picsum.photos/seed/banner1/1200/500",
+      "link": "/shop/6",
+      "title": "春夏新品 限时 7 折",
+      "subtitle": "法式碎花系列浪漫上线"
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/seed/banner2/1200/500",
+      "link": "/shop/4",
+      "title": "情侣卫衣 甜蜜出街",
+      "subtitle": "会员专享 8.8 折"
+    },
+    {
+      "id": 3,
+      "image": "https://picsum.photos/seed/banner3/1200/500",
+      "link": "/member",
+      "title": "升级金卡 全年免邮",
+      "subtitle": "限时只要 ¥59/年"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "author": {
+        "id": 2,
+        "nickname": "小野",
+        "avatar": "https://picsum.photos/seed/avatar2/100/100"
+      },
+      "content": "这套太好看了！高腰裤真的显腿长~",
+      "createdAt": "2026-05-09T15:10:00Z"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "author": {
+        "id": 3,
+        "nickname": "Mia米娅",
+        "avatar": "https://picsum.photos/seed/avatar3/100/100"
+      },
+      "content": "求链接~ 印花T恤好有个性！",
+      "createdAt": "2026-05-09T15:22:00Z"
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "content": "链接在帖子里哦，点进去就能看到~",
+      "createdAt": "2026-05-09T15:28:00Z"
+    },
+    {
+      "id": 4,
+      "postId": 1,
+      "author": {
+        "id": 2,
+        "nickname": "小野",
+        "avatar": "https://picsum.photos/seed/avatar2/100/100"
+      },
+      "content": "马丁靴是厚底那款吗？增高效果怎么样？",
+      "createdAt": "2026-05-09T16:05:00Z"
+    },
+    {
+      "id": 5,
+      "postId": 1,
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "content": "对的，就是店里那双12号厚底马丁靴！5cm增高超级显腿长~",
+      "createdAt": "2026-05-09T16:12:00Z"
+    },
+    {
+      "id": 6,
+      "postId": 2,
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "content": "这机能风也太酷了吧！战术马甲叠穿真的好绝",
+      "createdAt": "2026-05-09T10:40:00Z"
+    },
+    {
+      "id": 7,
+      "postId": 2,
+      "author": {
+        "id": 3,
+        "nickname": "Mia米娅",
+        "avatar": "https://picsum.photos/seed/avatar3/100/100"
+      },
+      "content": "黑白灰永不出错，学到了！明天就试试这种风格",
+      "createdAt": "2026-05-09T11:02:00Z"
+    },
+    {
+      "id": 8,
+      "postId": 2,
+      "author": {
+        "id": 2,
+        "nickname": "小野",
+        "avatar": "https://picsum.photos/seed/avatar2/100/100"
+      },
+      "content": "谢谢大家~ 第一次尝试机能风，比想象中好驾驭！",
+      "createdAt": "2026-05-09T11:15:00Z"
+    },
+    {
+      "id": 9,
+      "postId": 3,
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "content": "好温柔啊~ 碎花裙配这个颜色真的绝了，约会必备！",
+      "createdAt": "2026-05-08T17:10:00Z"
+    },
+    {
+      "id": 10,
+      "postId": 3,
+      "author": {
+        "id": 2,
+        "nickname": "小野",
+        "avatar": "https://picsum.photos/seed/avatar2/100/100"
+      },
+      "content": "珍珠发夹真的是点睛之笔，整套搭配太精致了",
+      "createdAt": "2026-05-08T17:25:00Z"
+    },
+    {
+      "id": 11,
+      "postId": 3,
+      "author": {
+        "id": 3,
+        "nickname": "Mia米娅",
+        "avatar": "https://picsum.photos/seed/avatar3/100/100"
+      },
+      "content": "嘻嘻谢谢，针织开衫披着真的很有层次感，推荐大家试试~",
+      "createdAt": "2026-05-08T17:40:00Z"
+    },
+    {
+      "id": 12,
+      "postId": 3,
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "content": "链条包容量怎么样？能装下手机和口红吗？",
+      "createdAt": "2026-05-08T18:05:00Z"
+    },
+    {
+      "id": 13,
+      "postId": 3,
+      "author": {
+        "id": 3,
+        "nickname": "Mia米娅",
+        "avatar": "https://picsum.photos/seed/avatar3/100/100"
+      },
+      "content": "可以的！手机、口红、气垫都能装，日常出门完全够用~",
+      "createdAt": "2026-05-08T18:12:00Z"
+    },
+    {
+      "id": 14,
+      "postId": 4,
+      "author": {
+        "id": 2,
+        "nickname": "小野",
+        "avatar": "https://picsum.photos/seed/avatar2/100/100"
+      },
+      "content": "白衬衫居然能穿出酷girl风！搭配墨镜太有范儿了",
+      "createdAt": "2026-05-07T10:00:00Z"
+    },
+    {
+      "id": 15,
+      "postId": 4,
+      "author": {
+        "id": 3,
+        "nickname": "Mia米娅",
+        "avatar": "https://picsum.photos/seed/avatar3/100/100"
+      },
+      "content": "这面料看着质感好好，是纯棉的吗？",
+      "createdAt": "2026-05-07T10:30:00Z"
+    },
+    {
+      "id": 16,
+      "postId": 4,
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "content": "是新疆长绒棉的！穿着超级舒服，机洗也不变形~",
+      "createdAt": "2026-05-07T10:45:00Z"
+    },
+    {
+      "id": 17,
+      "postId": 5,
+      "author": {
+        "id": 3,
+        "nickname": "Mia米娅",
+        "avatar": "https://picsum.photos/seed/avatar3/100/100"
+      },
+      "content": "哇情侣款也太甜了吧！橙紫配色好有CP感",
+      "createdAt": "2026-05-06T20:30:00Z"
+    },
+    {
+      "id": 18,
+      "postId": 5,
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "content": "橙紫CP色真的绝配！回头率绝对满分",
+      "createdAt": "2026-05-06T20:45:00Z"
+    },
+    {
+      "id": 19,
+      "postId": 5,
+      "author": {
+        "id": 2,
+        "nickname": "小野",
+        "avatar": "https://picsum.photos/seed/avatar2/100/100"
+      },
+      "content": "对象挑了橙色我挑紫色，走街上真的回头率爆表hhh",
+      "createdAt": "2026-05-06T21:00:00Z"
+    },
+    {
+      "id": 20,
+      "postId": 5,
+      "author": {
+        "id": 3,
+        "nickname": "Mia米娅",
+        "avatar": "https://picsum.photos/seed/avatar3/100/100"
+      },
+      "content": "求卫衣链接~ 想和闺蜜一起穿！",
+      "createdAt": "2026-05-06T21:20:00Z"
+    },
+    {
+      "id": 21,
+      "postId": 5,
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "content": "加绒款现在穿正合适！帖子下面就有链接哦~",
+      "createdAt": "2026-05-06T21:35:00Z"
+    },
+    {
+      "postId": 1,
+      "content": "2123123",
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "createdAt": "2026-05-10T15:57:04.691Z",
+      "id": 22
+    },
+    {
+      "postId": 2,
+      "content": "2131",
+      "author": {
+        "id": 1,
+        "nickname": "Ray酱",
+        "avatar": "https://picsum.photos/seed/avatar1/100/100"
+      },
+      "createdAt": "2026-05-10T15:57:09.916Z",
+      "id": 23
+    }
+  ],
+  "orders": [
+    {
+      "userId": 1,
+      "items": [
+        {
+          "productId": 11,
+          "name": "珍珠发夹套装",
+          "image": "https://picsum.photos/seed/p11/600/800",
+          "price": 79,
+          "color": "#FFFFFF",
+          "size": "均码",
+          "quantity": 1,
+          "memberDiscount": 0.95
+        },
+        {
+          "productId": 1,
+          "name": "复古印花宽松T恤",
+          "image": "https://picsum.photos/seed/p1/600/800",
+          "price": 299,
+          "color": "#FF6B35",
+          "size": "S",
+          "quantity": 1,
+          "memberDiscount": 0.9
+        },
+        {
+          "productId": 7,
+          "name": "工装束脚运动裤",
+          "image": "https://picsum.photos/seed/p7/600/800",
+          "price": 269,
+          "color": "#1A1A2E",
+          "size": "M",
+          "quantity": 1,
+          "memberDiscount": 0.9
+        },
+        {
+          "productId": 4,
+          "name": "情侣款连帽卫衣",
+          "image": "https://picsum.photos/seed/p4/600/800",
+          "price": 329,
+          "color": "#1A1A2E",
+          "size": "S",
+          "quantity": 1,
+          "memberDiscount": 0.88
+        },
+        {
+          "productId": 2,
+          "name": "高腰阔腿牛仔裤",
+          "image": "https://picsum.photos/seed/p2/600/800",
+          "price": 459,
+          "color": "#4A6FA5",
+          "size": "XS",
+          "quantity": 1,
+          "memberDiscount": 0.9
+        }
+      ],
+      "totalPrice": 1288.87,
+      "status": "paid",
+      "createdAt": "2026-05-10T16:04:01.719Z",
+      "id": 1
+    }
+  ]
+}

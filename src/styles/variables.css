@@ -1,0 +1,65 @@
+/* Ray社区 — CSS 变量 & 主题系统 */
+:root {
+  /* === 品牌色 === */
+  --color-primary: #FF6B35;
+  --color-primary-light: #FF8C60;
+  --color-primary-dark: #E55A2B;
+  --color-secondary: #7B2FBE;
+  --color-secondary-light: #9B5FD8;
+  --color-accent: #FFD166;
+
+  /* === 中性色（亮色模式）=== */
+  --color-bg: #F8F8F8;
+  --color-bg-card: #FFFFFF;
+  --color-bg-elevated: #FFFFFF;
+  --color-text-primary: #1A1A2E;
+  --color-text-secondary: #6B6B80;
+  --color-text-muted: #A0A0B0;
+  --color-border: #E8E8EC;
+  --color-border-light: #F0F0F4;
+  --color-divider: #F2F2F6;
+
+  /* === 状态色 === */
+  --color-success: #22C55E;
+  --color-warning: #F59E0B;
+  --color-danger: #EF4444;
+  --color-info: #3B82F6;
+
+  /* === 间距 === */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-2xl: 48px;
+
+  /* === 圆角 === */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* === 阴影 === */
+  --shadow-sm: 0 1px 3px rgba(26, 26, 46, 0.06);
+  --shadow-md: 0 4px 12px rgba(26, 26, 46, 0.08);
+  --shadow-lg: 0 8px 24px rgba(26, 26, 46, 0.12);
+  --shadow-glow: 0 0 20px rgba(255, 107, 53, 0.2);
+
+  /* === 字号 === */
+  --font-size-xs: 12px;
+  --font-size-sm: 13px;
+  --font-size-base: 14px;
+  --font-size-md: 16px;
+  --font-size-lg: 20px;
+  --font-size-xl: 24px;
+  --font-size-2xl: 32px;
+
+  /* === 过渡 === */
+  --transition-fast: 0.15s ease;
+  --transition-base: 0.25s ease;
+  --transition-slow: 0.4s ease;
+
+  /* === 字体 === */
+  --font-family: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+}

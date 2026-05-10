@@ -1,0 +1,17 @@
+/* Ray社区 — 暗色主题 */
+html.dark {
+  --color-bg: #0F0F1A;
+  --color-bg-card: #1A1A2E;
+  --color-bg-elevated: #242440;
+  --color-text-primary: #F0F0F5;
+  --color-text-secondary: #A0A0B8;
+  --color-text-muted: #6B6B80;
+  --color-border: #2E2E48;
+  --color-border-light: #242440;
+  --color-divider: #1E1E36;
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.5);
+  --shadow-glow: 0 0 20px rgba(255, 107, 53, 0.15);
+}
