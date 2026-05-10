@@ -14,7 +14,6 @@ import LoadingSkeleton from '@/components/common/LoadingSkeleton.vue'
 const router = useRouter()
 const userStore = useUserStore()
 const cartStore = useCartStore()
-const themeStore = useThemeStore()
 
 const orders = ref<Order[]>([])
 const loading = ref(true)

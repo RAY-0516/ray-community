@@ -13,7 +13,6 @@ import EmptyState from '@/components/common/EmptyState.vue'
 
 const route = useRoute()
 const router = useRouter()
-const themeStore = useThemeStore()
 
 const keyword = ref((route.query.q as string) ?? '')
 const products = ref<Product[]>([])
