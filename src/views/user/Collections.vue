@@ -26,7 +26,7 @@ onMounted(async () => {
     userStore.user.collections.map((id) => fetchProduct(id))
   )
   products.value = results
-    .filter((r): r is PromiseFulfilledResult<{ data: Product }> => r.status === 'fulfilled')
+    .filter((r): r is PromiseFulfilledResult<Awaited<ReturnType<typeof fetchProduct>>> => r.status === 'fulfilled')
     .map((r) => r.value.data)
   loading.value = false
 })

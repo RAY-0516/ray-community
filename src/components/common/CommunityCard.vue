@@ -1,13 +1,10 @@
 <script setup lang="ts">
 import { ChatDotRound, Star } from '@element-plus/icons-vue'
 import type { CommunityPost } from '@/types/community'
-import { useTheme } from '@/composables/useTheme'
 import { formatRelativeTime } from '@/utils/format'
 
 defineProps<{ post: CommunityPost }>()
 defineEmits<{ (e: 'view'): void }>()
-
-const { t } = useTheme()
 </script>
 
 <template>

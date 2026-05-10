@@ -4,7 +4,6 @@ import { Star } from '@element-plus/icons-vue'
 import type { Product } from '@/types/product'
 import { useUserStore } from '@/stores/user'
 import { useCartStore } from '@/stores/cart'
-import { useTheme } from '@/composables/useTheme'
 import { formatPrice, formatSales } from '@/utils/format'
 
 const props = defineProps<{ product: Product }>()
@@ -15,7 +14,6 @@ const emit = defineEmits<{
 
 const userStore = useUserStore()
 const cartStore = useCartStore()
-const { t } = useTheme()
 
 const discountPrice = computed(() => {
   return props.product.price * props.product.memberDiscount

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-import { Search, ShoppingCart, User, Sunny, Moon, Menu, Close } from '@element-plus/icons-vue'
+import { Search, ShoppingCart, Sunny, Moon, Menu, Close } from '@element-plus/icons-vue'
 import { useUserStore } from '@/stores/user'
 import { useCartStore } from '@/stores/cart'
 import { useThemeStore } from '@/stores/theme'

@@ -4,7 +4,6 @@ import { ElMessage } from 'element-plus'
 import type { MemberLevelConfig } from '@/types/user'
 import { useMemberStore } from '@/stores/member'
 import { useUserStore } from '@/stores/user'
-import { useTheme } from '@/composables/useTheme'
 import { formatPrice } from '@/utils/format'
 
 defineProps<{ level: MemberLevelConfig }>()
@@ -12,7 +11,6 @@ const emit = defineEmits<{ (e: 'done'): void }>()
 
 const memberStore = useMemberStore()
 const userStore = useUserStore()
-const { t } = useTheme()
 const loading = ref(false)
 
 async function handleUpgrade(level: string) {

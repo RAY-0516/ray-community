@@ -2,7 +2,6 @@
 import { ref } from 'vue'
 import { useRouter } from 'vue-router'
 import { ElMessage } from 'element-plus'
-import { Picture } from '@element-plus/icons-vue'
 import { createPost } from '@/api/community'
 import { useTheme } from '@/composables/useTheme'
 import AppLayout from '@/components/layout/AppLayout.vue'
